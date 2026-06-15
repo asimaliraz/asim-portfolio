@@ -28,7 +28,7 @@ const contactDetails = [
   {
     icon: <FiMapPin size={18} strokeWidth={2.5} />,
     label: 'Location',
-    value: 'Bahawalpur, Pakistan',
+    value: 'Multan, Pakistan',
     href: null,
   },
   {

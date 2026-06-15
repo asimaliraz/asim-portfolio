@@ -52,8 +52,8 @@ export const projects = [
   },
   {
     id: 3,
-    image: '/flashcard-quiz.png',
-    title: 'Talentango',
+    image: '/talentGo.png',
+    title: 'TalentanGo',
     description:
       'Designed the complete UI and implemented API integrations, ensuring smooth functionality and a polished user experience. Successfully published the application on the Google Play Store.',
     tags: ['Flutter', 'REST APIs', 'UI/UX Design'],
