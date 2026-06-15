@@ -2,7 +2,7 @@ import { useReveal } from '../hooks/useReveal'
 
 const stats = [
   { number: '10+', label: 'Projects' },
-  { number: '3+', label: 'Years Experience' },
+  { number: '3', label: 'Years Experience' },
   { number: '40+', label: 'GitHub Commits' },
   { number: '∞', label: 'Cups of Coffee' },
 ]
@@ -78,7 +78,7 @@ export default function About() {
       lineHeight: 1,
     }}
   >
-    3+
+    3
   </span>
   Years of Experience
 </div>
@@ -89,7 +89,7 @@ export default function About() {
 <div ref={ref3} className="reveal reveal-d2">
   <p style={{ color: 'var(--muted)', lineHeight: 1.85, marginBottom: 20, fontWeight: 300 }}>
     I'm a passionate <strong style={{ color: 'var(--text)', fontWeight: 500 }}>Flutter Developer</strong> with
-    over <strong style={{ color: 'var(--text)', fontWeight: 500 }}>3+ years of professional experience</strong>
+    over <strong style={{ color: 'var(--text)', fontWeight: 500 }}>3 years of professional experience</strong>
     designing, developing, and maintaining cross-platform mobile applications. I enjoy transforming ideas
     into high-quality mobile solutions that deliver excellent user experiences and business value.
   </p>
