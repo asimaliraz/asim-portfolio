@@ -57,7 +57,7 @@ export const projects = [
     description:
       'Designed the complete UI and implemented API integrations, ensuring smooth functionality and a polished user experience. Successfully published the application on the Google Play Store.',
     tags: ['Flutter', 'REST APIs', 'UI/UX Design'],
-    github: '',
+    github: 'https://github.com/asimaliraz/TechTalent',
     demo: '',
     featured: true,
   },
@@ -68,7 +68,7 @@ export const projects = [
     description:
       'Designed and developed the complete application, including UI/UX design and full API integration, ensuring smooth functionality and a user-friendly experience.',
     tags: ['Flutter', 'REST APIs', 'UI/UX Design', 'Mobile Development'],
-    github: '',
+    github: 'https://github.com/asimaliraz/TikPrompt',
     demo: '',
     featured: true,
   },
@@ -90,7 +90,7 @@ export const projects = [
     description:
       'Designed and developed the complete application, including UI/UX design and full API integration, ensuring smooth functionality and a user-friendly experience.',
     tags: ['Flutter', 'REST APIs', 'UI/UX Design', 'Mobile Development'],
-    github: '',
+    github: 'https://github.com/asimaliraz/promptengine.',
     demo: '',
     featured: true,
   },
